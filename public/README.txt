@@ -1,0 +1,1 @@
+Portfolio website for Fedi Kessemtini. Replace the placeholder email and LinkedIn URL in public/index.html before publishing widely.
